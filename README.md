@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1859-sorting-the-sentence) |
+| [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
 ## Sorting
 |  |
@@ -44,5 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
