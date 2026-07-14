@@ -4,11 +4,8 @@ class Solution {
         int dir=1;
         while(time>0){
             pos= pos + dir;
-            if(pos==n ){
-                dir=-1;
-            }
-            else if(pos == 1){
-                dir= 1;
+            if(pos==n || pos==1){
+                dir=dir*-1;
             }
             time--;     
         }
