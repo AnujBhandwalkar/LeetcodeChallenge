@@ -64,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
