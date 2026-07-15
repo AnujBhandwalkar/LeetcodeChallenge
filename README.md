@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1859-sorting-the-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
 ## Simulation
