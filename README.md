@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
