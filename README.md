@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0468-validate-ip-address) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1768-merge-strings-alternately](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
+| [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
 ## Simulation
