@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1859-sorting-the-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+| [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
 | [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
+| [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
 ## Simulation
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2582-pass-the-pillow](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2582-pass-the-pillow) |
+| [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
 ## Stack
