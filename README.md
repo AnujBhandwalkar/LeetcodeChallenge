@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2582-pass-the-pillow) |
 ## Dynamic Programming
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
 | [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0326-power-of-three) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
