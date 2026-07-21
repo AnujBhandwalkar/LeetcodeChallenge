@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1859-sorting-the-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
