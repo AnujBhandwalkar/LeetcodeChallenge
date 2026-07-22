@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0326-power-of-three) |
+| [0728-self-dividing-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
