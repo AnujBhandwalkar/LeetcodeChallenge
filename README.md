@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1859-sorting-the-sentence) |
 | [2578-split-with-minimum-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2578-split-with-minimum-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2582-pass-the-pillow) |
+| [3536-maximum-product-of-two-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
