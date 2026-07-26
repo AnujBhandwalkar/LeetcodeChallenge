@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1859-sorting-the-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1859-sorting-the-sentence) |
 | [2578-split-with-minimum-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2578-split-with-minimum-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0162-find-peak-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
 | [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
