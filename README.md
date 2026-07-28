@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
