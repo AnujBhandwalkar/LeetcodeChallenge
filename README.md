@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2582-pass-the-pillow) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2678-number-of-senior-citizens](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [3151-special-array-i](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3151-special-array-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3847-find-the-score-difference-in-a-game) |
