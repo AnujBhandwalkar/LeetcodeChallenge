@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
