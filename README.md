@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3870-count-commas-in-range) |
+| [3894-traffic-signal-color](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2582-pass-the-pillow](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2582-pass-the-pillow) |
 | [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3894-traffic-signal-color](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3921-score-validator) |
 ## Stack
 |  |
