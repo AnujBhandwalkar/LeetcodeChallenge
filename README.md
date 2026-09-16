@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0162-find-peak-element) |
+| [0575-distribute-candies](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0001-two-sum) |
+| [0575-distribute-candies](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0575-distribute-candies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
