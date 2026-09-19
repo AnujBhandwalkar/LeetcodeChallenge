@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0223-rectangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
 |  |
 | ------- |
