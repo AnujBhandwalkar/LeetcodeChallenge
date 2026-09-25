@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2390-removing-stars-from-a-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2678-number-of-senior-citizens](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2678-number-of-senior-citizens) |
 | [3838-weighted-word-mapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3894-traffic-signal-color) |
