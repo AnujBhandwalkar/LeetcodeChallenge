@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0171-excel-sheet-column-number) |
 | [0468-validate-ip-address](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0468-validate-ip-address) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1768-merge-strings-alternately](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0326-power-of-three) |
