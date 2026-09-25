@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0326-power-of-three) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0877-stone-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0162-find-peak-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0575-distribute-candies](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0877-stone-game) |
