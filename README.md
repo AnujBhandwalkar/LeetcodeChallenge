@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0468-validate-ip-address](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0468-validate-ip-address) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [1768-merge-strings-alternately](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2582-pass-the-pillow) |
