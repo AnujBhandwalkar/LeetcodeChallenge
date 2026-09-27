@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2578-split-with-minimum-sum) |
 | [2582-pass-the-pillow](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2582-pass-the-pillow) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnujBhandwalkar/LeetcodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
